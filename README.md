@@ -3,8 +3,11 @@
 2020.08~ 웹 개발자
 
 JSP / JAVA / JAVASCRIPT
+
 MYSQL / ORACLE
+
 JENKINS
+
 AWS EC2 / RDS
 
 <!--
