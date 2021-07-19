@@ -1,5 +1,11 @@
-### Hi there 👋
-ReadMe
+### 계란말이장인 🍳
+
+2020.08~ 웹 개발자
+
+JSP / JAVA / JAVASCRIPT
+MYSQL / ORACLE
+JENKINS
+AWS EC2 / RDS
 
 <!--
 **EggMari/EggMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
