@@ -1,10 +1,12 @@
 ### 계란말이장인 🍳
 
-2013~2020 수원대학교 컴퓨터학과 학사과정
+2013~2020 수원대학교 컴퓨터학과 학사과정 졸업
 
-2020.08~ 웹 개발자, 쇼핑몰 (부) / SNS 커뮤니티(주)
+2020.08~ 웹 개발자(이커머스, 커뮤니티)
 
-JSP / JAVA / JAVASCRIPT
+JSP / JAVA / JAVASCRIPT(+ jQuery)
+
+SPRING(+ BOOT)
 
 MYSQL / ORACLE
 
